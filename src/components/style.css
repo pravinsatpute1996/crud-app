@@ -1,0 +1,18 @@
+.myclass{
+    background-color: antiquewhite;
+    display: flex;justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }.global-form{
+    width: 60%;
+    
+  }.detail-card-info{
+    background-color: #1f5156;
+  }  .detail-card{
+    height:100vh;
+    background-color: #1f515697;
+  }
+  .detail-card-text{
+   
+    color: #facd03;
+  }
